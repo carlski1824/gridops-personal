@@ -1,4 +1,4 @@
-import { AiCommandBar } from '@/components/ai-command-bar';
+import { AiCommandBar } from '../components/ai-command-bar';
 
 export default function Home() {
   return (
